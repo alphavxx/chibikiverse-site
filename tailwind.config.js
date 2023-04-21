@@ -11,10 +11,11 @@ module.exports = {
     },
     extend: {
       dropShadow: {
-        glow: [
-          "0 0px 2px rgba(71, 193, 237)",
-          "0 0px 6px rgba(71, 193, 237)",
-        ],
+        glow: ["0 0px 2px rgba(71, 193, 237)", "0 0px 6px rgba(71, 193, 237)"],
+      },
+      backgroundImage: {
+        "hero-pattern": "url('/img/hero-bg.png')",
+        "footer-texture": "url('/img/footer-texture.png')",
       },
     },
   },
