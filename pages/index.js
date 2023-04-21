@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Navbar, Hero, Welcome, TokenSection } from "@/components";
+import { Navbar, Hero, Welcome, TokenSection, Footer } from "@/components";
 
 export default function Home() {
   return (
@@ -21,6 +21,7 @@ export default function Home() {
         <Hero />
         <Welcome />
         <TokenSection />
+        <Footer />
       </main>
     </>
   );
