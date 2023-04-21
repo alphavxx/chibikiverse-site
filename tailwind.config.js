@@ -9,7 +9,14 @@ module.exports = {
     fontFamily: {
       outfit: ["Outfit", "sans-serif"],
     },
-    extend: {},
+    extend: {
+      dropShadow: {
+        glow: [
+          "0 0px 2px rgba(71, 193, 237)",
+          "0 0px 6px rgba(71, 193, 237)",
+        ],
+      },
+    },
   },
   plugins: [],
 };
