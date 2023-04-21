@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Navbar, Hero } from "@/components";
+import { Navbar, Hero, Welcome } from "@/components";
 
 export default function Home() {
   return (
@@ -16,9 +16,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/img/favicon-2.png" />
       </Head>
-      <main className="bg-gray-950 min-h-screen font-outfit">
+      <main className="bg-gray-950 font-outfit">
         <Navbar />
         <Hero />
+        <Welcome />
       </main>
     </>
   );
