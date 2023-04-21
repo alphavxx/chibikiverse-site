@@ -31,6 +31,32 @@ body{
     animation: textShine 3s ease-in-out infinite alternate;
 }
 
+.token_shine {
+	background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #a2833b 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #82682b 62.5%, #775c1d 100%);
+	background-size: 300%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	/* animation: animated_text 8s ease-in-out infinite;
+	-moz-animation: animated_text 8s ease-in-out infinite;
+	-webkit-animation: animated_text 8s ease-in-out infinite; */
+}
+
+.bg-gold{
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #a2833b 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #82682b 62.5%, #775c1d 100%);
+                background-size: 300%;
+
+                animation: animated_text 6s ease-in-out infinite;
+	-moz-animation: animated_text 6s ease-in-out infinite;
+	-webkit-animation: animated_text 6s ease-in-out infinite;
+}
+@keyframes animated_text {
+	0% { background-position: 0px 50%; }
+	50% { background-position: 100% 50%; }
+	100% { background-position: 0px 50%; }
+}
+
 @keyframes textShine {
     0% {
         background-position: 0% 50%;

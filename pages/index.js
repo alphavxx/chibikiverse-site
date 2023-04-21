@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Navbar, Hero, Welcome } from "@/components";
+import { Navbar, Hero, Welcome, TokenSection } from "@/components";
 
 export default function Home() {
   return (
@@ -20,6 +20,7 @@ export default function Home() {
         <Navbar />
         <Hero />
         <Welcome />
+        <TokenSection />
       </main>
     </>
   );
