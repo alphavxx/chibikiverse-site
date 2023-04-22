@@ -14,20 +14,20 @@ export default function TokenSection() {
       </div>
       <div className="flex flex-col lg:flex-row items-center lg:items-start lg:justify-center gap-5 space-y-10 lg:space-y-0 ">
         <div className="text-center w-fit lg:h-56">
-          <h3 className="text-xl font-semibold  uppercase  m-auto w-40 p-5 py-3   rounded-2xl -mb-4 relative z-10 bg-gradient-to-tr from-amber-300 to-amber-700 ">
+          <h3 className="text-4xl uppercase font-black mb-6  token_shine ">
             utility
           </h3>
-          <p className="p-5 py-8 lg:py-12 max-w-md h-full  bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl flex items-center">
+          <p className="p-5 py-8 lg:py-12 max-w-md h-full  bg-gold rounded-2xl flex items-center">
             The $CHIBI token will be our main utility token in the chibikiverse
             ecosystem. this token wil be used for rewards, in-game transactions
             as well as $CHIBI -$SUI swap purchases in future
           </p>
         </div>
         <div className="text-center w-fit lg:h-56">
-          <h3 className="text-xl font-semibold uppercase w-fit p-5 py-3 m-auto rounded-2xl -mb-4 relative z-10 bg-gradient-to-tr from-amber-300 to-amber-700">
+          <h3 className="text-4xl uppercase font-black mb-6  token_shine animitaion_rotate">
             Staking and mining
           </h3>
-          <div className="p-5 py-8 max-w-md  h-full bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl  flex items-center">
+          <div className="p-5 py-8 max-w-md  h-full bg-gold rounded-2xl  flex items-center">
             <ul className="text-left mx-10 list-decimal space-y-4">
               <li>
                 $CHIBI tokens can be staked for passive reward generation.

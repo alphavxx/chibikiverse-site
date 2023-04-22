@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="flex flex-col lg:flex-row lg:justify-evenly gap-5">
         <div className="lg:w-96">
           <img
-            src="/img/chibiki-logo.jpg"
+            src="/img/chibiki-logo-2.svg"
             alt="chibiki logo"
             className="w-44 mx-auto mb-10"
           />
