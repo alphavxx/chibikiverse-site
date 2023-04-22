@@ -27,7 +27,7 @@ export default function TokenSection() {
           <h3 className="text-xl font-semibold uppercase w-fit p-5 py-3 m-auto rounded-2xl -mb-4 relative z-10 bg-gradient-to-tr from-amber-300 to-amber-700">
             Staking and mining
           </h3>
-          <p className="p-5 py-8 max-w-md  h-full bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl  flex items-center">
+          <div className="p-5 py-8 max-w-md  h-full bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl  flex items-center">
             <ul className="text-left mx-10 list-decimal space-y-4">
               <li>
                 $CHIBI tokens can be staked for passive reward generation.
@@ -37,7 +37,7 @@ export default function TokenSection() {
               </li>
               <li>Missions will enable mining of $CHIBI</li>
             </ul>
-          </p>
+          </div>
         </div>
       </div>
     </section>

@@ -5,6 +5,7 @@ import {
   Welcome,
   TokenSection,
   Roadmap,
+  Team,
   Goal,
   Footer,
 } from "@/components";
@@ -30,7 +31,8 @@ export default function Home() {
         <Welcome />
         <TokenSection />
         <Roadmap />
-        <Goal />  
+        <Team />
+        <Goal />
         <Footer />
         <div className="h-1 bg-gradient-to-r from-violet-500 to-amber-500 bg-white"></div>
       </main>
