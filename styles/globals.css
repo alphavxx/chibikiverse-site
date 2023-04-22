@@ -53,7 +53,8 @@ body{
 }
 
 .animitaion_rotate{
-    animation: rotate 4s ease-in-out infinite;
+    animation: rotate 2s ease-in-out infinite;
+    transform-origin: top;
 }
 
 @keyframes animated_text {
@@ -78,7 +79,7 @@ body{
 }
 
 @keyframes rotate{
-    0% { transform: rotate(15deg);}
-    50% { transform: rotate(-15deg);}
-    100% { transform: rotate(15deg);}
+    0% { transform: rotate(3deg);}
+    50% { transform: rotate(-3deg);}
+    100% { transform: rotate(3deg);}
 }

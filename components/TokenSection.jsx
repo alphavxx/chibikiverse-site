@@ -14,7 +14,7 @@ export default function TokenSection() {
       </div>
       <div className="flex flex-col lg:flex-row items-center lg:items-start lg:justify-center gap-5 space-y-10 lg:space-y-0 ">
         <div className="text-center w-fit lg:h-56">
-          <h3 className="text-4xl uppercase font-black mb-6  token_shine ">
+          <h3 className="text-4xl uppercase font-black mb-6  token_shine animitaion_rotate">
             utility
           </h3>
           <p className="p-5 py-8 lg:py-12 max-w-md h-full  bg-gold rounded-2xl flex items-center">
