@@ -24,7 +24,7 @@ export default function Navbar() {
             Chibiki Run
           </a>
           <a
-            href="#roundmap"
+            href="#roadmap"
             className="hover:scale-125 hover:rotate-2 transition-transform ease-in-out duration-300"
           >
             Road Map

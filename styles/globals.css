@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+  }
+
 body{
     overflow-x: hidden;
     background-color: rgb(3 7 18);
@@ -54,7 +58,7 @@ body{
 
 .animitaion_rotate{
     animation: rotate 2s ease-in-out infinite;
-    transform-origin: top;
+    transform-origin: center -20px;
 }
 
 @keyframes animated_text {

@@ -14,27 +14,27 @@ export default function Footer() {
         </div>
         <div className="">
           <h3 className="text-2xl font-semibold mb-2">Chibikiverse</h3>
-          <ul className="leading-loose [&>li]:cursor-pointer ">
-            <li className="hover:underline">Home</li>
-            <li className="hover:underline">About</li>
-            <li className="hover:underline">Roadmap</li>
-            <li className="hover:underline">Team</li>
+          <ul className="leading-loose [&>a]:cursor-pointer [&>a]:block ">
+            <a className="hover:underline" href="#home">Home</a>
+            <a className="hover:underline" href="#about">About</a>
+            <a className="hover:underline" href="#roadmap">Roadmap</a>
+            <a className="hover:underline" href="#team">Team</a>
           </ul>
         </div>
         <div className="">
           <h3 className="text-2xl font-semibold mb-2">Market</h3>
-          <ul className="leading-loose [&>li]:cursor-pointer">
-            <li className="hover:underline">Mint NFTs</li>
-            <li className="hover:underline">$CHIBIKI</li>
-            <li className="hover:underline">Buy & Sell</li>
+          <ul className="leading-loose [&>a]:cursor-pointer [&>a]:block">
+            <a className="hover:underline">Mint NFTs</a>
+            <a className="hover:underline">$CHIBIKI</a>
+            <a className="hover:underline">Buy & Sell</a>
           </ul>
         </div>
         <div className="">
           <h3 className="text-2xl font-semibold mb-2">Contact Us</h3>
-          <ul className="leading-loose [&>li]:cursor-pointer ">
-            <li className="hover:underline">Twitter</li>
-            <li className="hover:underline">Discord</li>
-            <li className="hover:underline">Email</li>
+          <ul className="leading-loose [&>a]:cursor-pointer [&>a]:block ">
+            <a className="hover:underline" href="https://twitter.com/Chibikiverse" target="_blank">Twitter</a>
+            <a className="hover:underline" href="https://discord.com/invite/hBEKvqvFfs"  target="_blank">Discord</a>
+            <a className="hover:underline"  target="_blank" href="">Email</a>
           </ul>
         </div>
       </div>

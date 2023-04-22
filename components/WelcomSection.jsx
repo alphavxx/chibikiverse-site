@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function Welcome() {
   return (
-    <section className="py-24 px-10 text-white flex flex-col items-center">
+    <section className="py-24 px-10 text-white flex flex-col items-center" id="about">
       <div className="container flex flex-col md:flex-row justify-around items-center md:space-x-10 space-y-10 mb-20 ">
         <div className="w-full max-w-lg h-full flex flex-col justify-evenly text-center space-y-8 ">
           <div className="chibiki_text text-center space-y-8 md:space-x-8">
@@ -16,13 +16,15 @@ export default function Welcome() {
           <div className="chibiki_btn flex justify-around md:justify-center md:gap-10">
             <a
               className="py-3 px-6 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
-              href="#"
+              href="https://twitter.com/Chibikiverse"
+              target="_blank"
             >
               Twitter
             </a>
             <a
               className="py-3 px-6 w-40 border-2 border-blue-500 rounded-full  hover:bg-blue-500 transition-all active:scale-90"
-              href="#"
+              href="https://discord.com/invite/hBEKvqvFfs"
+              target="_blank"
             >
               Discord
             </a>
@@ -77,7 +79,7 @@ export default function Welcome() {
               className="py-3 px-6 w-40 rounded-full bg-green-500 hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
               href=""
             >
-              Play Now
+              Coming Soon...
             </a>
           </div>
         </div>

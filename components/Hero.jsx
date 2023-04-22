@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 export default function Hero() {
   return (
-    <header className="w-screen h-screen">
+    <header className="w-screen h-screen" id="home">
       <div className="bg-hero-pattern bg-center bg-cover blur-sm h-full w-full absolute "></div>
       <div className="relative w-full">
         <div className="flex justify-between h-screen w-screen absolut items-center">
