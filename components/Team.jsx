@@ -16,7 +16,7 @@ export default function Team() {
       img: "/img/team-1.jpg",
     },
     {
-      name: "Matty Senseiq",
+      name: "Matty Sensei",
       words:
         " An Energetic Moderator/collab manager who’s currently ruling the Sui Ecosystem by managing successful projects including Chibikiverse. ",
       tag: "Moderator",

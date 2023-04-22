@@ -13,16 +13,16 @@ export default function Welcome() {
               with multiple utilities backed by the NFT and token.
             </p>
           </div>
-          <div className="chibiki_btn flex justify-around md:justify-center md:gap-10">
+          <div className="chibiki_btn flex flex-col md:flex-row justify-around md:justify-center md:gap-10 items-center">
             <a
-              className="py-3 px-6 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
+              className="py-3 px-6 mb-5 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
               href="https://twitter.com/Chibikiverse"
               target="_blank"
             >
               Twitter
             </a>
             <a
-              className="py-3 px-6 w-40 border-2 border-blue-500 rounded-full  hover:bg-blue-500 transition-all active:scale-90"
+              className="py-3 px-6  mb-5 w-40 border-2 border-blue-500 rounded-full  hover:bg-blue-500 transition-all active:scale-90"
               href="https://discord.com/invite/hBEKvqvFfs"
               target="_blank"
             >

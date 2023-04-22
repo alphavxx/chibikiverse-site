@@ -40,7 +40,7 @@ export default function Footer() {
       </div>
 
       <div className="mt-10 text-center flex justify-center items-center gap-2">
-        Made With <FcLike className="inline" /> By Chibikies{" "}
+        Made With <FcLike className="inline" /> By Chibikis{" "}
         <AiOutlineCopyrightCircle className="inline" />
       </div>
     </footer>
