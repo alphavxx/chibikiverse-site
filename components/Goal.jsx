@@ -9,13 +9,13 @@ export default function Goal() {
 
       <div className="relative w-4/5 p-10 mx-auto mb-20 bg-goal-bg bg-center rounded-lg text-center">
         <div className="flex justify-around flex-wrap gap-5 lg:gap-36">
-          <div className={cardStyle + "bg-[url('/img/welcome-img.png')]"}>
+          <div className={cardStyle + "bg-[url('/img/welcome-img.jpg')]"}>
             Web 3.0 Games
           </div>
-          <div className={cardStyle + "bg-[url('/img/goal-1.png')]"}>
+          <div className={cardStyle + "bg-[url('/img/goal-1.jpg')]"}>
             Phygital NFTs
           </div>
-          <div className={cardStyle + "bg-[url('/img/goal-2.png')]"}>Manga</div>
+          <div className={cardStyle + "bg-[url('/img/goal-2.jpg')]"}>Manga</div>
         </div>
       </div>
     </section>

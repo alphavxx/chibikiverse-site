@@ -14,7 +14,10 @@ export default function Welcome() {
             </p>
           </div>
           <div className="chibiki_btn flex justify-around md:justify-center md:gap-10">
-            <a className="py-3 px-6 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3" href="#">
+            <a
+              className="py-3 px-6 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
+              href="#"
+            >
               Twitter
             </a>
             <a
@@ -27,7 +30,7 @@ export default function Welcome() {
         </div>
         <div className="chibiki_right m-auto">
           <img
-            src="/img/welcome-img-2.png"
+            src="/img/welcome-img-2.jpg"
             alt="chibiki"
             className="w-96 rounded-2xl"
           />
@@ -50,15 +53,21 @@ export default function Welcome() {
             </h1>
             <ul className="space-y-5 md:flex md:space-y-0 md:gap-10 md:px-10">
               <li>
-                <h2 className="font-semibold uppercase italic mb-2 bg-shine">Chibiki Run</h2>
+                <h2 className="font-semibold uppercase italic mb-2 bg-shine">
+                  Chibiki Run
+                </h2>
                 <p>
-                An Infinite Runner Mini game with more enemies and obstacles. Let’s see who scores the highest
+                  An Infinite Runner Mini game with more enemies and obstacles.
+                  Let’s see who scores the highest
                 </p>
               </li>
               <li>
-                <h2 className="font-semibold uppercase italic mb-2 bg-shine">Chibikis - Origin</h2>
+                <h2 className="font-semibold uppercase italic mb-2 bg-shine">
+                  Chibikis - Origin
+                </h2>
                 <p>
-                A Platformer game (Metroidvania style) set in a dystopian world thats different from Earth’s reality.
+                  A Platformer game (Metroidvania style) set in a dystopian
+                  world thats different from Earth’s reality.
                 </p>
               </li>
             </ul>
@@ -74,7 +83,7 @@ export default function Welcome() {
         </div>
         <div className="chibiki_right m-auto  ">
           <img
-            src="/img/welcome-img.png"
+            src="/img/welcome-img.jpg"
             alt="chibiki"
             className="w-96 md:w-[32rem] rounded-2xl mb-12"
           />

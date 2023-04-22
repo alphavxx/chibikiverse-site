@@ -6,35 +6,35 @@ export default function Team() {
       words:
         " A NFT Veteran who has been working on chibikiverse since 2021. A game Dev / Digital artist / CEO and the creator of Chibikiverse ",
       tag: "CEO",
-      img: "/img/team-0.png",
+      img: "/img/team-0.jpg",
     },
     {
       name: "The Dev Chibiki",
       words:
         " Unity Wiz who has created three successful games, now working on CHIBKIS - ORIGIN for its smoother gameplay and story. ",
       tag: "CTO",
-      img: "/img/team-1.png",
+      img: "/img/team-1.jpg",
     },
     {
       name: "Matty Senseiq",
       words:
         " An Energetic Moderator/collab manager who’s currently ruling the Sui Ecosystem by managing successful projects including Chibikiverse. ",
       tag: "Moderator",
-      img: "/img/team-2.png",
+      img: "/img/team-2.jpg",
     },
     {
       name: "Vickie Sensei",
       words:
         "Community Growth strategist who have been the part of chibikiverse since the early days helping us nurture the chibiki family.",
       tag: "Moderator",
-      img: "/img/team-3.png",
+      img: "/img/team-3.jpg",
     },
     {
       name: "Riddhi chan",
       words:
         " A Wonderful artist who excels in designing tricky game levels joined the chibiki team to bring the dream to life. ",
       tag: "Game Artist",
-      img: "/img/team-4.png",
+      img: "/img/team-4.jpg",
     },
   ];
   return (

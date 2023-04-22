@@ -23,7 +23,7 @@ export default function Home() {
           content="The Most Cutest and Strongest Anime style NFT collection on SUI with multiple utilities backed by the NFT and token."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/img/favicon-2.png" />
+        <link rel="icon" href="/img/favicon-2.jpg" />
       </Head>
       <main className="bg-gray-950 font-outfit text-white">
         <Navbar />

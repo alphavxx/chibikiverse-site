@@ -7,7 +7,7 @@ export default function TokenSection() {
           <span> $CHIBI</span> Tokenomics
         </h1>
         <img
-          src="/img/chibiki-token-bg.png"
+          src="/img/chibiki-token-bg.jpg"
           alt="chibiki token"
           className="my-10 rounded-xl m-auto"
         />
