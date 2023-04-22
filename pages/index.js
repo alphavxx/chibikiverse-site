@@ -1,5 +1,12 @@
 import Head from "next/head";
-import { Navbar, Hero, Welcome, TokenSection, Footer } from "@/components";
+import {
+  Navbar,
+  Hero,
+  Welcome,
+  TokenSection,
+  Roadmap,
+  Footer,
+} from "@/components";
 
 export default function Home() {
   return (
@@ -21,9 +28,9 @@ export default function Home() {
         <Hero />
         <Welcome />
         <TokenSection />
+        <Roadmap />
         <Footer />
-        <div className="h-1 bg-gradient-to-r from-violet-500 to-fuchsia-500 bg-white"></div>
-
+        <div className="h-1 bg-gradient-to-r from-violet-500 to-amber-500 bg-white"></div>
       </main>
     </>
   );

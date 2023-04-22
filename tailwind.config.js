@@ -15,7 +15,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern": "url('/img/hero-bg.png')",
-        "footer-texture": "url('/img/footer-texture.png')",
+        "roadmap-texture": "url('/img/chibiki-roadmap.png')",
       },
     },
   },

@@ -14,7 +14,7 @@ export default function TokenSection() {
       </div>
       <div className="flex flex-col lg:flex-row items-center lg:items-start lg:justify-center gap-5 space-y-10 lg:space-y-0 ">
         <div className="text-center w-fit lg:h-56">
-          <h3 className="text-xl font-semibold  uppercase  m-auto w-40 p-5 py-3   rounded-2xl -mb-4 relative z-10 bg-gold ">
+          <h3 className="text-xl font-semibold  uppercase  m-auto w-40 p-5 py-3   rounded-2xl -mb-4 relative z-10 bg-gradient-to-tr from-amber-300 to-amber-700 ">
             utility
           </h3>
           <p className="p-5 py-8 lg:py-12 max-w-md h-full  bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl flex items-center">
@@ -24,7 +24,7 @@ export default function TokenSection() {
           </p>
         </div>
         <div className="text-center w-fit lg:h-56">
-          <h3 className="text-xl font-semibold uppercase w-fit p-5 py-3 m-auto rounded-2xl -mb-4 relative z-10 bg-gold">
+          <h3 className="text-xl font-semibold uppercase w-fit p-5 py-3 m-auto rounded-2xl -mb-4 relative z-10 bg-gradient-to-tr from-amber-300 to-amber-700">
             Staking and mining
           </h3>
           <p className="p-5 py-8 max-w-md  h-full bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl  flex items-center">
