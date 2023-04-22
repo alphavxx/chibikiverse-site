@@ -4,5 +4,6 @@ import Welcome from "./WelcomSection";
 import TokenSection from "./TokenSection";
 import Footer from "./Footer";
 import Roadmap from "./RoadMap";
+import Goal from "./Goal";
 
-export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap};
+export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap ,  Goal};

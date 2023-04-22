@@ -28,7 +28,7 @@ export default function TokenSection() {
             Staking and mining
           </h3>
           <p className="p-5 py-8 max-w-md  h-full bg-gradient-to-t from-cyan-400 to-sky-700 rounded-2xl  flex items-center">
-            <div className="text-left mx-10 list-decimal space-y-4">
+            <ul className="text-left mx-10 list-decimal space-y-4">
               <li>
                 $CHIBI tokens can be staked for passive reward generation.
               </li>
@@ -36,7 +36,7 @@ export default function TokenSection() {
                 These tokens can only be bought in IDO, game or by staking.
               </li>
               <li>Missions will enable mining of $CHIBI</li>
-            </div>
+            </ul>
           </p>
         </div>
       </div>
