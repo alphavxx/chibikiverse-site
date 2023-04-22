@@ -16,12 +16,14 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/img/favicon-2.png" />
       </Head>
-      <main className="bg-gray-950 font-outfit">
+      <main className="bg-gray-950 font-outfit text-white">
         <Navbar />
         <Hero />
         <Welcome />
         <TokenSection />
         <Footer />
+        <div className="h-1 bg-gradient-to-r from-violet-500 to-fuchsia-500 bg-white"></div>
+
       </main>
     </>
   );
