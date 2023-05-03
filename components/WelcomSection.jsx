@@ -15,20 +15,29 @@ export default function Welcome() {
           </div>
           <div className="chibiki_btn flex flex-col md:flex-row justify-around md:justify-center md:gap-10 items-center">
             <a
-              className="py-3 px-6 mb-5 w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
+              className="py-3 px-6 mb-5 w-3/5 md:w-40 bg-blue-500 rounded-full  hover:scale-110 transition-all active:scale-90 hover:-rotate-3"
               href="https://twitter.com/Chibikiverse"
               target="_blank"
             >
               Twitter
             </a>
             <a
-              className="py-3 px-6  mb-5 w-40 border-2 border-blue-500 rounded-full  hover:bg-blue-500 transition-all active:scale-90"
+              className="py-3 px-6  mb-5 w-3/5 md:w-40 border-2 border-blue-500 rounded-full  hover:bg-blue-500 transition-all active:scale-90"
               href="https://discord.com/invite/hBEKvqvFfs"
               target="_blank"
             >
               Discord
             </a>
           </div>
+          <div className="chibiki_btn flex flex-col md:flex-row justify-around md:justify-center md:gap-10 items-center">
+            <a
+              className="py-3 px-6 mb-5 w-3/5 bg-blue-500 rounded-full hover:-rotate-3 animitaion_grow"
+              href="https://atlas3.io/project/chibikiverse"
+              target="_blank"
+            >
+              Submit For Whitelist Now
+            </a>
+          </div>  
         </div>
         <div className="chibiki_right m-auto">
           <img
