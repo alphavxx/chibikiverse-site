@@ -8,7 +8,8 @@ import {
   Team,
   Goal,
   Footer,
-  Carousel
+  Carousel,
+  ChibikiRun,
 } from "@/components";
 
 export default function Home() {
@@ -30,11 +31,12 @@ export default function Home() {
         <Navbar />
         <Hero />
         <Welcome />
+        <ChibikiRun />
         <TokenSection />
         <Roadmap />
         <Team />
-        <Carousel/>
-        <Carousel side="left"/>
+        <Carousel />
+        <Carousel side="left" />
         <Goal />
         <Footer />
         <div className="h-1 bg-gradient-to-r from-violet-500 to-amber-500 bg-white"></div>

@@ -7,5 +7,6 @@ import Roadmap from "./RoadMap";
 import Goal from "./Goal";
 import Team  from "./Team";
 import Carousel from "./Carousel";
+import ChibikiRun from "./ChibikiRun";
 
-export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap ,  Goal , Team , Carousel};
+export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap ,  Goal , Team , Carousel , ChibikiRun};
