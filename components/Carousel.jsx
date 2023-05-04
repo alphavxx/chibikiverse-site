@@ -5,7 +5,7 @@ export default function Carousel({ side = "right" }) {
       <div class={`slide-${side}`}>
         <div class="slide">
           <img
-            src="/img/carousel/slide-13.jpg"
+            src="/img/carousel/slide-13-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -109,7 +109,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-13.jpg"
+            src="/img/carousel/slide-13-min.jpg"
             height="100"
             width="350"
             alt=""
