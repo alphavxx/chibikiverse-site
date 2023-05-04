@@ -13,7 +13,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-12.png"
+            src="/img/carousel/slide-12-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -21,7 +21,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-11.png"
+            src="/img/carousel/slide-11-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -29,7 +29,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-10.png"
+            src="/img/carousel/slide-10-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -37,7 +37,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-9.png"
+            src="/img/carousel/slide-9-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -45,7 +45,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-8.png"
+            src="/img/carousel/slide-8-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -53,7 +53,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-7.png"
+            src="/img/carousel/slide-7-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -61,7 +61,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-6.png"
+            src="/img/carousel/slide-6-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -69,7 +69,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-5.png"
+            src="/img/carousel/slide-5-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -77,7 +77,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-4.png"
+            src="/img/carousel/slide-4-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -85,7 +85,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-3.png"
+            src="/img/carousel/slide-3-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -93,7 +93,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-2.png"
+            src="/img/carousel/slide-2-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -101,7 +101,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-1.png"
+            src="/img/carousel/slide-1-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -117,7 +117,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-12.png"
+            src="/img/carousel/slide-12-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -125,7 +125,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-11.png"
+            src="/img/carousel/slide-11-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -133,7 +133,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-10.png"
+            src="/img/carousel/slide-10-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -141,7 +141,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-9.png"
+            src="/img/carousel/slide-9-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -149,7 +149,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-8.png"
+            src="/img/carousel/slide-8-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -157,7 +157,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-7.png"
+            src="/img/carousel/slide-7-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -165,7 +165,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-6.png"
+            src="/img/carousel/slide-6-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -173,7 +173,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-5.png"
+            src="/img/carousel/slide-5-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -181,7 +181,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-4.png"
+            src="/img/carousel/slide-4-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -189,7 +189,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-3.png"
+            src="/img/carousel/slide-3-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -197,7 +197,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-2.png"
+            src="/img/carousel/slide-2-min.jpg"
             height="100"
             width="350"
             alt=""
@@ -205,7 +205,7 @@ export default function Carousel({ side = "right" }) {
         </div>
         <div class="slide">
           <img
-            src="/img/carousel/slide-1.png"
+            src="/img/carousel/slide-1-min.jpg"
             height="100"
             width="350"
             alt=""
