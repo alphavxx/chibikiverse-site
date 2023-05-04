@@ -8,6 +8,7 @@ import {
   Team,
   Goal,
   Footer,
+  Carousel
 } from "@/components";
 
 export default function Home() {
@@ -32,6 +33,8 @@ export default function Home() {
         <TokenSection />
         <Roadmap />
         <Team />
+        <Carousel/>
+        <Carousel side="left"/>
         <Goal />
         <Footer />
         <div className="h-1 bg-gradient-to-r from-violet-500 to-amber-500 bg-white"></div>

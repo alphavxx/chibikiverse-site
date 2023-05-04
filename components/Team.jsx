@@ -38,7 +38,7 @@ export default function Team() {
     },
   ];
   return (
-    <section className="my-20 text-center" id="team">
+    <section className="mt-20 mb-44 text-center" id="team">
       <div className="">
         <h2 className="text-4xl uppercase font-black -rotate-3 bg-shine mb-6">
           Team

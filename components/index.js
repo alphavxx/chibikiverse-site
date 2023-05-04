@@ -6,5 +6,6 @@ import Footer from "./Footer";
 import Roadmap from "./RoadMap";
 import Goal from "./Goal";
 import Team  from "./Team";
+import Carousel from "./Carousel";
 
-export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap ,  Goal , Team};
+export { Navbar, Hero, Welcome, TokenSection ,  Footer , Roadmap ,  Goal , Team , Carousel};
