@@ -1,7 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
 export default function Welcome() {
   return (
-    <section className="py-24 px-10 text-white flex flex-col items-center" id="about">
+    <section
+      className="py-24 px-10 text-white flex flex-col items-center"
+      id="about"
+    >
       <div className="container flex flex-col md:flex-row justify-around items-center md:space-x-10 space-y-10 mb-20 ">
         <div className="w-full max-w-lg h-full flex flex-col justify-evenly text-center space-y-8 ">
           <div className="chibiki_text text-center space-y-8 md:space-x-8">
@@ -31,7 +34,7 @@ export default function Welcome() {
           </div>
           <div className="chibiki_btn flex flex-col md:flex-row justify-around md:justify-center md:gap-10 items-center">
             <a
-              className="py-3 px-6 mb-5 w-3/5 bg-blue-500 rounded-full hover:-rotate-3 animitaion_grow"
+              className="block py-3 px-6 mb-5 w-3/5 rounded-full hover:-rotate-3 bg-blue-500 shadow-lg shadow-blue-500/50 animitaion_grow"
               href="https://atlas3.io/project/chibikiverse"
               target="_blank"
             >
